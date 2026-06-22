@@ -1,8 +1,8 @@
 class OsidbMcp < Formula
   desc "Model Context Protocol (MCP) server for OSIDB"
   homepage "https://github.com/vdanen/osidb-mcp"
-  url "https://files.pythonhosted.org/packages/f2/bc/b78cb3ee5dee13df7829e5431ee7b93b58cba5f7c9e8479417b439daa80b/osidb_mcp-0.2.0.tar.gz"
-  sha256 "829257b00139f4b0e40901234dcd13e2c6226624c1bc171d87d7cf9b912f883b"
+  url "https://files.pythonhosted.org/packages/3c/a4/ea49b1fa77bebaa28917c4cd3e5e85b3e6cf8c9a02db7461e9dc7a0680b8/osidb_mcp-0.2.1.tar.gz"
+  sha256 "5e7eae6aa77adee6f5182290c1d63b8fecf43f059f683b7dc7d6cc83d2081884"
   license "MIT"
 
   depends_on "python@3.13"
